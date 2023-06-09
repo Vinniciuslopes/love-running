@@ -158,3 +158,10 @@ hr{
     line-height: 20px;
     margin: 50px;
 }
+.right-about-heading h2{
+    text-align: right;
+
+}
+.right-about-heading p{
+text-align: right;
+}
