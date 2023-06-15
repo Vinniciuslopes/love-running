@@ -281,7 +281,7 @@ footer {
 }
 
 /* for medium screen sizes from 950px wide and down*/
-@media screen and (max-width:950px) {
+@media screen and (max-width: 950px) {
     #menu {
         clear: left;
         float: left;
@@ -299,23 +299,17 @@ footer {
         height: 1200px;
         margin: 0 auto;
     }
-
-    .left-about-heading,
-    .right-about-heading {
-        width: inherit;
-
+    .left-about-heading, .right-about-heading {
+        width: 90%;
     }
-
-    .left-about-heading h2,
-    .right-about-heading h2 {
+    .left-about-heading h2, .right-about-heading h2 {
         width: 100%;
         text-align: center;
     }
-
-    .left-about-heading p,
-    .right-about-heading p {
+     .left-about-heading p, .right-about-heading p {
         text-align: center;
-        padding-left: 20px;
-        padding-right: 20;
-    }
+        padding: 0 20px
+     }
+
+
 }
