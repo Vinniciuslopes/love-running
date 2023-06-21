@@ -23,7 +23,7 @@ HOME GALLERY SIGNUP
 
 ### Home Page section
 
-- The home page was divided into  sections, hero-outer, club ethos and meetup time and footer.
+- The home page was divided into sections, hero-outer, club ethos and meetup time and footer.
 - Hero-outer with an image and where the it takes place.
 - Club ethos eas displayed information about the benefits of jogging.
 - Meetup section displays meetup time and place for the runners.
@@ -36,7 +36,7 @@ HOME GALLERY SIGNUP
 ### Signup form
 
 - The signup form is where people who are interested can signup to be part on the running group.
-- It There is a input for name, last name and email, there is also a radio input.
+- There is a input for name, last name and email, there is also a radio input.
 
 ### Testing
 
@@ -45,11 +45,9 @@ HOME GALLERY SIGNUP
 - I confirmed that the navigation, header, home, gallery and signup form are readable and easy to understand.
 - I have confirmed that the form works: require entries in every field, will only accept an email in the email field, and the submit button works.
 
-### Validator  Testing
+### Validator Testing
 
 - HTML
-    - No erros returned when passing through th official W£C validator
+  - There was erros an error on html lang= en-us, when passing through the official W3C validator
 - CSS
-    
-    - No erros were found when passing through trough the official (jigsaw) validator 
-
+  - There was an error found when passing through through the official (jigsaw) validator
