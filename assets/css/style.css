@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Oswald:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Oswald:wght@300&display=swap");
 
 /* set margin, padding and boder to 0 to give more control*/
 * {
@@ -141,7 +141,7 @@ h2 {
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
-    margin: 5px 0:
+    margin: 5px 0;
 }
 
 .left-about-heading {
@@ -274,7 +274,8 @@ footer {
         float: left;
         padding: 0;
     }
-    #time > div {
+
+    #time>div {
         width: 100%;
         clear: both;
         height: 150px;
@@ -305,20 +306,27 @@ footer {
         height: 1200px;
         margin: 0 auto;
     }
-    .left-about-heading, .right-about-heading {
+
+    .left-about-heading,
+    .right-about-heading {
         width: 90%;
     }
-    .left-about-heading h2, .right-about-heading h2 {
+
+    .left-about-heading h2,
+    .right-about-heading h2 {
         width: 100%;
         text-align: center;
     }
-     .left-about-heading p, .right-about-heading p {
+
+    .left-about-heading p,
+    .right-about-heading p {
         text-align: center;
         padding: 0 20px;
-     }
-     #photo {
+    }
+
+    #photo {
         column-count: 3;
-     }
+    }
 
 
 }
@@ -326,6 +334,6 @@ footer {
 /* for small screen sizes 800px and down*/
 @media screen and (max-width: 800px) {
     #photo {
-            column-count: 2;
-        }
+        column-count: 2;
+    }
 }
