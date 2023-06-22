@@ -33,10 +33,11 @@ Love running is a web page that aims on conecting people that like running on ur
 - The meetup section displays the location and where the runners should meet
   <img width="1414" alt="Screenshot 2023-06-22 at 12 32 08" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/c089ccee-07b0-4359-9e3d-33802f28911f">
 
-### **Signup form**
+### **Footer**
 
-- The signup form is where people who are interested can signup to be part of the running group.
-- There is a input for name, last name and email, there is also a radio input to chose form urban, trail or both activities.
+- The footer displays links of social media
+<img width="1406" alt="Screenshot 2023-06-22 at 12 36 20" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/f7f62e69-33de-4b7a-9f30-30b64ec8b638">
+
 
 ### **Testing**
 
