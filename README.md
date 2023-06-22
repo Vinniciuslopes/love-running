@@ -29,7 +29,7 @@ Love running is a web page that aims on conecting people that like running on ur
 <img width="1404" alt="Screenshot 2023-06-22 at 12 30 00" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/185694d5-e877-4ae1-bbf6-b604b019bc34">
 
   
-### ** Meetup section**
+### **Meetup section**
 - The meetup section displays the location and where the runners should meet
   <img width="1414" alt="Screenshot 2023-06-22 at 12 32 08" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/c089ccee-07b0-4359-9e3d-33802f28911f">
 
