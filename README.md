@@ -22,15 +22,13 @@ Love running is a web page that aims on conecting people that like running on ur
 - The name Love running on the top left corner is link to the home page.
 - It tells what the page is about, the font size was chosen to draw more attention to the logo.
 
-### **Home Page section**
+### **Club ethos section**
 
-- The home page was divided into sections, hero-outer, club ethos and meetup time and footer.
-- [Hero-outer](assets/images/Screenshot%202023-06-22%20at%2012.15.59.png)
- with an image and where the it takes place.
-- [Club ethos](assets/images/Screenshot%202023-06-22%20at%2012.30.00.png) displays information about the benefits of jogging.
-- [Meetup](assets/images/Screenshot%202023-06-22%20at%2012.32.08.png) section displays meetup time,distance where it takes place.
-- [Footer](assets/images/Screenshot%202023-06-22%20at%2012.36.20.png) displays social media links.
+- The club ethos section displays the benefits of running
+- It helps to encourage viwers to signup
+<img width="1404" alt="Screenshot 2023-06-22 at 12 30 00" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/185694d5-e877-4ae1-bbf6-b604b019bc34">
 
+  
 ### **[GALLERY](assets/images/Screenshot%202023-06-22%20at%2012.22.58.png)**
 
 - The gallery section shows pictures of people from the group taking part in different  running activities.
