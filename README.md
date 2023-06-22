@@ -63,6 +63,7 @@ Love running is a web page that aims on conecting people that like running on ur
 - CSS
 
   - There was an error found when passing through through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/).
+  - 
 
   ### **Deployment**
 
@@ -84,3 +85,4 @@ The link can be found here -https://github.com/Vinniciuslopes/love-running.git
 
 - The image used on hero-image was take from https://codeinstitute.s3.amazonaws.com/CSSEssentials/hero-image.webp
 - The image used on the gallery were taken from https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/07-gallery/02-gallery-images
+- The README.md file idea was taken from [](https://github.com/Code-Institute-Solutions/readme-template)
