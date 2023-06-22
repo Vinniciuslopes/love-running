@@ -2,7 +2,7 @@
 
 # [Love Running ](https://github.com/Vinniciuslopes/love-running.git)
 
-Love running is a web page that aims on conecting people that like running on urban and trail. The page is for everybory that would like to be active and go for a jogging on city events or parks. O the web site will find different meetup location for jogging.
+Love running is a web page that aims on conecting people that like running on urban and trail. The page is for everybory that would like to be active and go for a jogging on city events or parks. On the web site will find different meetup location for jogging.
 
 ## **Features**
 
@@ -10,7 +10,7 @@ Love running is a web page that aims on conecting people that like running on ur
 
 HOME GALLERY SIGNUP
 
-- Feature at the top right corner of the page, it is placed in a priority with the home, gallery and a signup form.
+- Feature at the top right corner of the page, it is placed in a priority order with the home, gallery and a signup form.
 - It links the page to its respective areas once you click on it.
 - The color was chosen to contrast the background color.
 
@@ -25,18 +25,18 @@ HOME GALLERY SIGNUP
 
 - The home page was divided into sections, hero-outer, club ethos and meetup time and footer.
 - Hero-outer with an image and where the it takes place.
-- Club ethos eas displayed information about the benefits of jogging.
+- Club ethos displays information about the benefits of jogging.
 - Meetup section displays meetup time and place for the runners.
 - Footer display social media links.
 
 ### **Gallery Section**
 
-- The gallery section shows pictures of people from the group taking part in different activities.
+- The gallery section shows pictures of people from the group taking part in different  running activities.
 
 ### **Signup form**
 
-- The signup form is where people who are interested can signup to be part on the running group.
-- There is a input for name, last name and email, there is also a radio input.
+- The signup form is where people who are interested can signup to be part of the running group.
+- There is a input for name, last name and email, there is also a radio input to chose form urban, trail or both activities.
 
 ### **Testing**
 
@@ -48,7 +48,7 @@ HOME GALLERY SIGNUP
 ### **Validator Testing**
 
 - HTML
-  - There was erros an error on html lang= en-us, when passing through the official [W3C validator](https://validator.w3.org/).
+  - There was an error on html lang= en-us, when passing through the official [W3C validator](https://validator.w3.org/).
 - CSS
 
   - There was an error found when passing through through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/).
@@ -57,8 +57,8 @@ HOME GALLERY SIGNUP
 
 - Github was used to deploying this page.
   - In the github repository, navigate to setting tab.
-  - On the left side there are several items, scroll down and click on page.
-  - Looked for branch and selecte main.
+  - On the left side there are several items, scrolled  down and click on page.
+  - Looked for branch and selected main.
 
 The link can be found here -https://github.com/Vinniciuslopes/love-running.git
 
