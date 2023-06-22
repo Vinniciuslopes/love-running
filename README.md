@@ -5,6 +5,7 @@
 Love running is a web page that aims on conecting people that like running on urban and trail. The page is for everybory that would like to be active and go for a jogging on city events or parks. On the web site will find different meetup location for jogging.
 
 ## **Features**
+![]()
 
 ### **Navigation**
 
@@ -16,7 +17,7 @@ Love running is a web page that aims on conecting people that like running on ur
 
 ### **Header**
 
-## [Love Running](assets/images/Screenshot%202023-06-22%20at%2012.15.59.png)
+## ![Love Running](assets/images/Screenshot%202023-06-22%20at%2012.15.59.png)
 
 - The name Love running on the top left corner is link to the home page.
 - It tells what the page is about, the font size was chosen to draw more attention to the logo.
