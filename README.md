@@ -8,7 +8,7 @@ Love running is a web page that aims on conecting people that like running on ur
 
 ### **Navigation**
 
-HOME GALLERY SIGNUP
+[HOME](assets/images/) [GALLERY](assets/images/Screenshot%202023-06-22%20at%2012.22.58.png) SIGNUP
 
 - Feature at the top right corner of the page, it is placed in a priority order with the home, gallery and a signup form.
 - It links the page to its respective areas once you click on it.
@@ -16,7 +16,7 @@ HOME GALLERY SIGNUP
 
 ### **Header**
 
-## Love Running
+## [Love Running](assets/images/Screenshot%202023-06-22%20at%2012.15.59.png)
 
 - The name Love running on the top left corner is link to the home page.
 - It tells what the page is about, the font size was chosen to draw more attention to the logo.
@@ -24,12 +24,13 @@ HOME GALLERY SIGNUP
 ### **Home Page section**
 
 - The home page was divided into sections, hero-outer, club ethos and meetup time and footer.
-- Hero-outer with an image and where the it takes place.
-- Club ethos displays information about the benefits of jogging.
-- Meetup section displays meetup time and place for the runners.
-- Footer display social media links.
+- [Hero-outer](assets/images/Screenshot%202023-06-22%20at%2012.15.59.png)
+ with an image and where the it takes place.
+- [Club ethos](assets/images/Screenshot%202023-06-22%20at%2012.30.00.png) displays information about the benefits of jogging.
+- [Meetup](assets/images/Screenshot%202023-06-22%20at%2012.32.08.png) section displays meetup time,distance where it takes place.
+- [Footer](assets/images/Screenshot%202023-06-22%20at%2012.36.20.png) display social media links.
 
-### **Gallery Section**
+### **[GALLERY](assets/images/Screenshot%202023-06-22%20at%2012.22.58.png)**
 
 - The gallery section shows pictures of people from the group taking part in different  running activities.
 
