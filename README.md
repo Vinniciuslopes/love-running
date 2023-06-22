@@ -39,10 +39,15 @@ Love running is a web page that aims on conecting people that like running on ur
 
 <img width="904" alt="Screenshot 2023-06-22 at 22 13 55" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/e4031030-7b8c-4a5a-af1a-372354b20b72">
 
-## **Gallery**
+### **Gallery**
 - The gallery section that shows picture of the group participating in different running events 
 
 <img width="821" alt="Screenshot 2023-06-22 at 22 20 19" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/bf6ac5e0-5c23-4b34-8a1e-d5ea3564400a">
+
+### **Sign up**
+
+<img width="1311" alt="Screenshot 2023-06-22 at 19 46 50" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/a81a3196-73b0-459d-a895-c43fdc8f07a9">
+
 
 ### **Testing**
 
