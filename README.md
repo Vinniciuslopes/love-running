@@ -63,8 +63,14 @@ Love running is a web page that aims on conecting people that like running on ur
 - CSS
 
   - There was an error found when passing through through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/).
-  - 
 
+- Accessibility  
+
+ - I confirmed  that colors and fonts chosen are easy and accessible
+
+![Screenshot 2023-06-22 at 19 20 48](https://github.com/Vinniciuslopes/love-running/assets/131663952/f8482d6c-5819-4ee8-b073-d714fb7274e0)
+
+   
   ### **Deployment**
 
 - Github was used to deploying this page.
@@ -80,9 +86,11 @@ The link can be found here -https://github.com/Vinniciuslopes/love-running.git
 
 - The text for the home page was taken from View source code
 - The icons in footer and meetup were taken from [Font Awesome](https://fontawesome.com/icons)
+- The code for this project was taken from https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/637be1a2e3b84b25aa33f3ab4d98603c/?child=first
 
 ### **Media**
 
 - The image used on hero-image was take from https://codeinstitute.s3.amazonaws.com/CSSEssentials/hero-image.webp
 - The image used on the gallery were taken from https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/07-gallery/02-gallery-images
-- The README.md file idea was taken from [](https://github.com/Code-Institute-Solutions/readme-template)
+- The README.md file idea was taken from https://github.com/Code-Institute-Solutions/readme-template
+  
