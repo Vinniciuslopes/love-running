@@ -46,6 +46,8 @@ Love running is a web page that aims on conecting people that like running on ur
 
 ### **Sign up**
 
+- The signup page is where viewers can signup
+
 <img width="1311" alt="Screenshot 2023-06-22 at 19 46 50" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/a81a3196-73b0-459d-a895-c43fdc8f07a9">
 
 
@@ -66,7 +68,7 @@ Love running is a web page that aims on conecting people that like running on ur
 
 - Accessibility  
 
- - I confirmed  that colors and fonts chosen are easy and accessible
+  - I confirmed  that colors and fonts chosen are easy and accessible
 
 ![Screenshot 2023-06-22 at 19 20 48](https://github.com/Vinniciuslopes/love-running/assets/131663952/f8482d6c-5819-4ee8-b073-d714fb7274e0)
 
