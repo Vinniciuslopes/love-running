@@ -80,7 +80,7 @@ Love running is a web page that aims on conecting people that like running on ur
   - On the left side there are several items, scrolled  down and click on page.
   - Looked for branch and selected main.
 
-The link can be found here -https://github.com/Vinniciuslopes/love-running.git
+The link can be found here https://vinniciuslopes.github.io/love-running/
 
 ### **Credits**
 
