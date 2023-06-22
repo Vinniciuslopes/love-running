@@ -8,13 +8,11 @@ Love running is a web page that aims on conecting people that like running on ur
 ### **Features**
 
 ### **Navigation Bar**
-<img width="1366" alt="Screenshot 2023-06-22 at 21 54 25" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/060a6764-128f-4719-8d34-6d1fc3283fdb">
-
-![]()
 
 - Featured at the top right corner of the page, it is placed in a priority order with the home, gallery and a signup form.
 - It links the page to its respective areas once you click on it.
 - The color was chosen to contrast the background color.
+  <img width="1366" alt="Screenshot 2023-06-22 at 21 54 25" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/060a6764-128f-4719-8d34-6d1fc3283fdb">
 
 ### **Header**
 
