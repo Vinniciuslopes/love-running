@@ -28,7 +28,7 @@ Love running is a web page that aims on conecting people that like running on ur
  with an image and where the it takes place.
 - [Club ethos](assets/images/Screenshot%202023-06-22%20at%2012.30.00.png) displays information about the benefits of jogging.
 - [Meetup](assets/images/Screenshot%202023-06-22%20at%2012.32.08.png) section displays meetup time,distance where it takes place.
-- [Footer](assets/images/Screenshot%202023-06-22%20at%2012.36.20.png) display social media links.
+- [Footer](assets/images/Screenshot%202023-06-22%20at%2012.36.20.png) displays social media links.
 
 ### **[GALLERY](assets/images/Screenshot%202023-06-22%20at%2012.22.58.png)**
 
