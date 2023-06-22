@@ -8,7 +8,7 @@ Love running is a web page that aims on conecting people that like running on ur
 
 ### **Navigation**
 
-[HOME](assets/images/) [GALLERY](assets/images/Screenshot%202023-06-22%20at%2012.22.58.png) SIGNUP
+[HOME](assets/images/) ![GALLERY](assets/images/Screenshot%202023-06-22%20at%2012.22.58.png) SIGNUP
 
 - Feature at the top right corner of the page, it is placed in a priority order with the home, gallery and a signup form.
 - It links the page to its respective areas once you click on it.
