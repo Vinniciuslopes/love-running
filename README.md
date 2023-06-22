@@ -6,13 +6,12 @@ Love running is a web page that aims on conecting people that like running on ur
 
 ![Screenshot 2023-06-22 at 21 36 44](https://github.com/Vinniciuslopes/love-running/assets/131663952/fcb05c8d-f095-4ec3-9cfc-01c3d6f9ae0b)
 ### **Features**
+
+### **Navigation Bar**
+
 ![]()
 
-### **Navigation**
-
-[HOME](assets/images/) ![GALLERY](assets/images/Screenshot%202023-06-22%20at%2012.22.58.png) SIGNUP
-
-- Feature at the top right corner of the page, it is placed in a priority order with the home, gallery and a signup form.
+- Featured at the top right corner of the page, it is placed in a priority order with the home, gallery and a signup form.
 - It links the page to its respective areas once you click on it.
 - The color was chosen to contrast the background color.
 
