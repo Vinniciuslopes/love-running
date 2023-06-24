@@ -35,7 +35,7 @@ Love running is a web page that aims on conecting people that like running on ur
 
 ### **The Footer**
 
-- The footer displayslinks of social media
+- The footer displays links of social media
 
 <img width="904" alt="Screenshot 2023-06-22 at 22 13 55" src="https://github.com/Vinniciuslopes/love-running/assets/131663952/e4031030-7b8c-4a5a-af1a-372354b20b72">
 
