@@ -64,7 +64,7 @@ Love running is a web page that aims on conecting people that like running on ur
   - There was an error on html lang= en-us, when passing through the official [W3C validator](https://validator.w3.org/).
 - CSS
 
-  - There was an error found when passing through through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/).
+  - There was an error found where it was missing percentage sign and a semicolon when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/).
 
 - Accessibility  
 
